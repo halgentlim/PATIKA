@@ -1,0 +1,19 @@
+/*clas için . kullanılır
+id için # kullanılır */
+
+.text-red{
+    color: red;
+}
+
+.font-small{
+    font-size: 14px;
+}
+
+.font-medium{
+    font-size: 20px;
+}
+
+.font-big{
+    font-size: 30px;
+}
+
