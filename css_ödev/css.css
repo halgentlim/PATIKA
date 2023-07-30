@@ -1,0 +1,115 @@
+/* Navbar Ayarları */
+
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    font-size: 14;
+    line-height: 50px;
+    font-family: Calibri;
+    cursor: pointer;
+    list-style: none;
+    display:inline-block;
+    padding: 0;
+  }
+  
+  li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .active {
+    background-color: #04AA6D;
+  }
+  a,
+  a:hover,
+  a:focus,
+  a:active {
+      text-decoration: none;
+      outline: none;
+  }
+  
+  a,
+  a:active,
+  a:focus {
+      color: #333;
+      text-decoration: none;
+      transition-timing-function: ease-in-out;
+      -ms-transition-timing-function: ease-in-out;
+      -moz-transition-timing-function: ease-in-out;
+      -webkit-transition-timing-function: ease-in-out;
+      -o-transition-timing-function: ease-in-out;
+      transition-duration: .2s;
+      -ms-transition-duration: .2s;
+      -moz-transition-duration: .2s;
+      -webkit-transition-duration: .2s;
+      -o-transition-duration: .2s;
+  }
+  
+  ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+  }
+  img {
+max-width: 100%;
+height: auto;
+}
+  section {
+      padding: 60px 0;
+     /* min-height: 100vh;*/
+  }
+.btn {
+padding: 14px 25px;
+text-transform: uppercase;
+-webkit-transition: all 0.8s;
+-moz-transition: all 0.8s;
+-o-transition: all 0.8s;
+transition: all 0.8s;
+}
+.red-btn {
+background: #ed1b24;
+border: 2px solid #ed1b24;
+color: #fff;
+}
+
+.red-btn:hover{
+background: #1c376c;
+color: #fff;
+border-color: #ffffff;
+}
+
+/* Hakkımızda Ayarları */
+
+h2{
+  color: red;
+  font-size: 14;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+p{
+  font-size: 14;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #1c376c;
+}
+
+/* Ürünler Ayarları */
+
+table{
+  margin: auto;
+  padding: 10px;
+  display: table;
+}
