@@ -1,0 +1,63 @@
+.logo{
+   margin: auto;
+   display: block;
+   
+}
+#searchbox{
+background-color: rgb(216, 211, 211);
+height: 100px;
+margin: auto;
+display: block;
+text-align: center;
+
+}
+.searchbar{
+        display: flex;
+        height: 30px;
+        width: 600px;
+        margin: auto;
+        border-radius: 5px 5px 5px 5px;
+        
+    }
+    form.searchbar input {
+        height: 30px;
+        width: 600px;
+        border: 1px solid black;
+        border-radius: 5px 5px 5px 5px;
+        font-size: 16px;
+        font-weight: 500;
+        margin: auto;
+    }
+    .btn{
+        margin-top: 5px;
+    }
+    .container{
+        background-color: #7EE5DA;
+        width: 40%;
+        height: 80px;
+        margin-top: 5px;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+
+
+
+      }
+      .bg-blue{
+        background-color:#62B3AA;
+        float: right;
+        width: 39.2%;
+        margin-left: 5px;
+        align-items: center;
+     
+      }
+      .bg-green{
+        background-color: #70CCC2;
+        width: 20%;
+        margin-left: 5px;
+      }
+      .lisans{
+        text-align: center;
+        margin-top: 10px;
+        padding-top: 10px;
+      }
