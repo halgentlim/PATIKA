@@ -20,3 +20,23 @@ id için # kullanılır */
 #first-article{
     font-size: 40px;
 }
+
+/* CSS_Margin Ayarları */
+
+.container{
+    background-color: red;
+    width: 300px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .bg-red{
+    background-color: red;
+ 
+  }
+  .bg-green{
+    background-color: green;
+  }
+  /* .clear{
+    clear:both;/* Yazıları asagaya tasır sagdakı veya soldakı*/
+  
