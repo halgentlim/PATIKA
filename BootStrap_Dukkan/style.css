@@ -1,0 +1,53 @@
+.row{
+    background-color:black;
+    height: 35px;
+}
+
+.row a{
+ padding-left: 5px;
+ text-align: center;
+}
+
+.row img{
+    margin: 3px;
+}
+
+.col-sm-4{
+background-color: #e9ecef;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color:#e9ecef;
+    color: black;
+}
+
+.container{
+    background-color: #e9ecef;
+}
+
+.container h1 img{
+    height: 50px;
+
+}
+
+.card{
+    background-color: #e9ecef;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card-body{
+    background-color: white;
+}
+
+.card-body img{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+#about{
+    background-color: #e9ecef;
+}
+
