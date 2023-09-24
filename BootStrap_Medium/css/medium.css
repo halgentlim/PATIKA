@@ -1,0 +1,16 @@
+.bg-orange{
+    background-color: orange;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid #414141
+}
+
+.body-font{
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-dark{
+background-color: black;
+}
+   
