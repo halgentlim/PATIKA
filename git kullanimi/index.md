@@ -7,3 +7,11 @@ Buaraya paragraf yazabilirisimiz aklınıza gelen herseyı yazabilrisinzi
 -3
 -4
 -5
+
+
+git add . <!--dosyaları ekleme  -->
+git commit <!--dosyaları yukleme 
+git revert <!--commitleri silme 
+git init <!--git olusturma 
+git log <!--commit kayıtlarını gorme 
+git status <!--durumunu gorme  
