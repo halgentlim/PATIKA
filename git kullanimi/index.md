@@ -15,3 +15,4 @@ git revert <!--commitleri silme
 git init <!--git olusturma 
 git log <!--commit kayıtlarını gorme 
 git status <!--durumunu gorme  
+git commit --amend <!-- Değişiklik Yapma
